@@ -20,7 +20,7 @@ from nltk.tokenize import sent_tokenize
 #########################################
 # 0. PATH: PDF'lerin bulunduğu klasör
 #########################################
-PDF_DIR = r"C:\Users\mustafa\Python\pythonProject\PdfParse\pdfs" #CHANGE HERE WITH YOUR PDFS FOLDER !!!
+PDF_DIR = r"C:\Users\mustafa\Python\pythonProject\PdfParse\pdfs" #CHANGE HERE WITH YOUR PDFS' FOLDER !!!
 
 
 ###################################################
