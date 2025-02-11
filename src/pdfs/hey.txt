@@ -1,1 +1,1 @@
-txt
+This is where your pdfs should be located at
