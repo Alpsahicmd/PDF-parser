@@ -1,1 +1,1 @@
-hey this is a stub for README will fill it later hopefully
+hey, this is a PDF parser for python using libraries such as pdfplumber. you can find main.py which has codes for this project and requirements.txt which has necessary library implementations in src folder.This is not this projects final shape but still hope this helps.
